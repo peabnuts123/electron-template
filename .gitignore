@@ -1,0 +1,6 @@
+.cache/
+node_modules/
+build/
+
+# Ignore vscode settings for now
+.vscode
